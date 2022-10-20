@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AKDI 1707-1006_005_a.JPG</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT119" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT120" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    <OtherTag ID="LT3" LABEL="Correction" DESCRIPTION="line type Correction"/><OtherTag ID="LT25" LABEL="Poetry" DESCRIPTION="line type Poetry"/><OtherTag ID="LT26" LABEL="Head" DESCRIPTION="line type Head"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2927"
+          HEIGHT="3744"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2927"
+                  HEIGHT="3744">
+        
+        <TextBlock HPOS="104"
+                   VPOS="601"
+                   WIDTH="1693"
+                   HEIGHT="2444"
+                   ID="eSc_textblock_70874c1b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="104 601 104 3045 1797 3040 1797 601"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
