@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>princeton_garrett_no_1356y.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT867" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1666"
+          HEIGHT="2550"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1666"
+                  HEIGHT="2550">
+        
+        <TextBlock HPOS="538"
+                   VPOS="662"
+                   WIDTH="987"
+                   HEIGHT="1334"
+                   ID="eSc_textblock_0d2f737d"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="538 662 538 1996 1525 1996 1525 662"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

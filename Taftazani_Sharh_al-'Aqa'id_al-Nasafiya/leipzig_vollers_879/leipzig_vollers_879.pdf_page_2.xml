@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>leipzig_vollers_879.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT864" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT865" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1806"
+          HEIGHT="2479"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1806"
+                  HEIGHT="2479">
+        
+        <TextBlock HPOS="107"
+                   VPOS="507"
+                   WIDTH="834"
+                   HEIGHT="1450"
+                   ID="eSc_textblock_c07661d2"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="107 507 107 1957 941 1957 915 540"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
