@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000012.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT480" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1770"
+          HEIGHT="1545"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1770"
+                  HEIGHT="1545">
+        
+        <TextBlock HPOS="195"
+                   VPOS="149"
+                   WIDTH="1178"
+                   HEIGHT="329"
+                   ID="eSc_textblock_c81962c5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="195 149 195 478 1373 478 1373 149"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="216"
+                   VPOS="910"
+                   WIDTH="1114"
+                   HEIGHT="325"
+                   ID="eSc_textblock_f13c59cd"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="216 910 216 1199 1330 1235 1330 910"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

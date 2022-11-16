@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bnf_arabe_5741-2_vurgQG7.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT811" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1771"
+          HEIGHT="1929"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1771"
+                  HEIGHT="1929">
+        
+        <TextBlock HPOS="401"
+                   VPOS="222"
+                   WIDTH="1370"
+                   HEIGHT="1286"
+                   ID="eSc_textblock_f9f5f9b8"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="401 222 401 1508 1771 1508 1771 222"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

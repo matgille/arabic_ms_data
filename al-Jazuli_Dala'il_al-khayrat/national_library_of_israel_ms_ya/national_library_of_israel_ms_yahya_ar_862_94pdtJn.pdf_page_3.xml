@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>national_library_of_israel_ms_yahya_ar_862_94pdtJn.pdf_page_3.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT816" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4604"
+          HEIGHT="6579"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4604"
+                  HEIGHT="6579">
+        
+        <TextBlock HPOS="138"
+                   VPOS="240"
+                   WIDTH="3815"
+                   HEIGHT="5840"
+                   ID="eSc_textblock_ad9e750b"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="138 240 138 6080 3953 6080 3953 240"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

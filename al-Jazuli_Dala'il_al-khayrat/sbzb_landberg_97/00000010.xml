@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000010.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT827" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT828" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1869"
+          HEIGHT="2572"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1869"
+                  HEIGHT="2572">
+        
+        <TextBlock HPOS="149"
+                   VPOS="487"
+                   WIDTH="1030"
+                   HEIGHT="1618"
+                   ID="eSc_textblock_7ff74d93"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="149 487 149 2105 1176 2105 1179 487"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

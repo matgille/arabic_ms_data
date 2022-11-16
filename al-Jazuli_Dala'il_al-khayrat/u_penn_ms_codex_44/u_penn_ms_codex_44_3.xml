@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>u_penn_ms_codex_44_3.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT624" LABEL="Title Square" DESCRIPTION="block type Title Square"/><OtherTag ID="BT625" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/><OtherTag ID="BT834" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1256"
+          HEIGHT="1800"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1256"
+                  HEIGHT="1800">
+        
+        <TextBlock HPOS="69"
+                   VPOS="318"
+                   WIDTH="570"
+                   HEIGHT="1163"
+                   ID="eSc_textblock_5dfb19d7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="69 318 69 1481 639 1481 639 318"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
