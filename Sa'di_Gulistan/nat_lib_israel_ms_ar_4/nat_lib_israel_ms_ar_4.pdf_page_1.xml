@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>nat_lib_israel_ms_ar_4.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT854" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/><OtherTag ID="BT860" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3665"
+          HEIGHT="6208"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3665"
+                  HEIGHT="6208">
+        
+        <TextBlock HPOS="345"
+                   VPOS="1394"
+                   WIDTH="2159"
+                   HEIGHT="3763"
+                   ID="eSc_textblock_e8447725"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="345 1401 345 5157 2504 5157 2354 1394 2276 1401 2149 1401 2134 1401"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

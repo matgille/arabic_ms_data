@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>staatsbibliothek_zu_berlin_hs_or_9821.pdf_page_4.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT862" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2075"
+          HEIGHT="3112"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2075"
+                  HEIGHT="3112">
+        
+        <TextBlock HPOS="424"
+                   VPOS="430"
+                   WIDTH="1255"
+                   HEIGHT="420"
+                   ID="eSc_textblock_281771ed"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="424 430 424 850 1679 850 1674 430"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="432"
+                   VPOS="2304"
+                   WIDTH="1268"
+                   HEIGHT="513"
+                   ID="eSc_textblock_196156d7"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="432 2304 432 2817 1700 2817 1700 2304"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

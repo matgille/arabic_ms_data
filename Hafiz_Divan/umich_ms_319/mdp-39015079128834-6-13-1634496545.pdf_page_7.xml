@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>mdp-39015079128834-6-13-1634496545.pdf_page_7.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT249" LABEL="heads" DESCRIPTION="block type heads"/><OtherTag ID="BT250" LABEL="footnotes" DESCRIPTION="block type footnotes"/><OtherTag ID="BT251" LABEL="marginal material" DESCRIPTION="block type marginal material"/><OtherTag ID="BT252" LABEL="page numbers" DESCRIPTION="block type page numbers"/><OtherTag ID="BT253" LABEL="running title" DESCRIPTION="block type running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1759"
+          HEIGHT="3020"
+          PHYSICAL_IMG_NR="5"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1759"
+                  HEIGHT="3020">
+        
+        <TextBlock HPOS="415"
+                   VPOS="433"
+                   WIDTH="1015"
+                   HEIGHT="1073"
+                   ID="eSc_textblock_7fa294e5"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1430 433 1430 1506 415 1506 415 433"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="415"
+                   VPOS="1637"
+                   WIDTH="1015"
+                   HEIGHT="914"
+                   ID="eSc_textblock_2ea35b8d"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="1430 2551 415 2551 415 1637 1430 1637"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>AM.pdf_page_3.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT254" LABEL="footnotes" DESCRIPTION="block type footnotes"/><OtherTag ID="BT255" LABEL="heads" DESCRIPTION="block type heads"/><OtherTag ID="BT256" LABEL="marginal material" DESCRIPTION="block type marginal material"/><OtherTag ID="BT257" LABEL="page numbers" DESCRIPTION="block type page numbers"/><OtherTag ID="BT258" LABEL="running title" DESCRIPTION="block type running title"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2135"
+          HEIGHT="3618"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2135"
+                  HEIGHT="3618">
+        
+        <TextBlock HPOS="223"
+                   VPOS="629"
+                   WIDTH="1122"
+                   HEIGHT="2299"
+                   ID="eSc_textblock_8a8ba0cf"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="223 629 223 2928 1345 2928 1345 629"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
