@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000040.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT484" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/><OtherTag ID="BT485" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    <OtherTag ID="LT80" LABEL="Interlinear" DESCRIPTION="line type Interlinear"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1279"
+          HEIGHT="1828"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1279"
+                  HEIGHT="1828">
+        
+        <TextBlock HPOS="310"
+                   VPOS="561"
+                   WIDTH="348"
+                   HEIGHT="86"
+                   ID="eSc_textblock_975bbf5e"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="310 561 310 647 658 647 658 561"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dcac6b60"
+                    
+                    BASELINE="315 597 656 597" 
+                    HPOS="297"
+                    VPOS="537"
+                    WIDTH="360"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="314 595 312 539 503 537 504 537 535 540 536 540 538 540 553 552 560 559 655 559 655 595 657 616 625 626 623 626 621 626 510 618 496 618 495 618 483 629 481 629 480 629 478 629 297 638"/></Shape>
+	    <String CONTENT="هذا كتاب دلائل الخيرات"
+                    HPOS="297"
+                    VPOS="537"
+                    WIDTH="360"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="200"
+                   VPOS="712"
+                   WIDTH="522"
+                   HEIGHT="183"
+                   ID="eSc_textblock_3eaa84cf"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="200 712 200 895 722 895 722 712"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ec5469aa"
+                    
+                    BASELINE="243 762 710 769" 
+                    HPOS="219"
+                    VPOS="716"
+                    WIDTH="507"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="242 761 240 737 288 725 289 725 291 725 314 737 336 725 338 725 339 725 341 725 365 734 379 725 381 725 382 725 384 725 385 725 387 725 407 737 419 726 419 725 420 725 422 725 423 725 478 725 519 726 521 726 522 726 522 728 532 720 537 720 593 732 594 732 596 732 597 732 608 741 611 721 726 716 708 767 707 792 644 804 643 804 577 795 559 792 536 795 486 802 484 802 483 802 464 796 445 787 358 787 219 795"/></Shape>
+	    <String CONTENT="فَصْلٌ فى كَيْفِيَةِ الصَّلَاَة عَلىَ"
+                    HPOS="219"
+                    VPOS="716"
+                    WIDTH="507"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8577cd91"
+                    
+                    BASELINE="234 833 710 831" 
+                    HPOS="228"
+                    VPOS="778"
+                    WIDTH="488"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="233 831 228 784 446 778 448 778 449 778 451 778 460 786 469 793 593 799 641 808 708 798 716 851 670 871 649 869 647 869 647 871 503 871 501 869 500 869 498 869 495 866 468 851 432 865 431 865 429 865 428 865 413 857 381 863 379 863 378 863 376 863 376 862 350 864 275 851 234 871"/></Shape>
+	    <String CONTENT="النّبىّ صَلَّى الله تعالى عَلَيْهِ وَسَلَم"
+                    HPOS="228"
+                    VPOS="778"
+                    WIDTH="488"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
