@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000008.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT481" LABEL="Catchword" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1043"
+          HEIGHT="1620"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1043"
+                  HEIGHT="1620">
+        
+        <TextBlock HPOS="174"
+                   VPOS="373"
+                   WIDTH="520"
+                   HEIGHT="239"
+                   ID="eSc_textblock_4e251243"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="174 373 174 612 694 612 694 373"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_75279b72"
+                    
+                    BASELINE="275 434 548 433" 
+                    HPOS="272"
+                    VPOS="378"
+                    WIDTH="276"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="275 434 272 394 303 392 303 391 313 383 313 382 314 382 316 382 317 382 318 382 320 382 329 390 331 391 332 390 347 380 348 380 349 380 351 380 352 380 374 387 386 391 398 386 412 379 413 379 414 379 464 379 466 379 467 379 470 382 478 387 544 378 548 433 547 454 470 458 455 457 453 457 452 457 451 457 402 458 393 460 385 468 383 468 382 468 380 468 274 464"/></Shape>
+	    <String CONTENT="اِلَّا بِاللهِ ٱلعَِلىّ العَظِيِم"
+                    HPOS="272"
+                    VPOS="378"
+                    WIDTH="276"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f82167ad"
+                    
+                    BASELINE="290 508 549 508" 
+                    HPOS="253"
+                    VPOS="462"
+                    WIDTH="296"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="253 509 270 465 320 466 331 468 327 469 330 469 341 469 367 469 368 469 370 469 371 469 430 469 432 469 433 469 439 478 446 463 495 462 549 487 549 508 548 533 292 524"/></Shape>
+	    <String CONTENT="فصَْلُ فىِ فضَْلْ الصَّلٰوة عَلى"
+                    HPOS="253"
+                    VPOS="462"
+                    WIDTH="296"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9ac1b2df"
+                    
+                    BASELINE="289 577 548 576" 
+                    HPOS="240"
+                    VPOS="528"
+                    WIDTH="308"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="253 597 240 561 270 528 298 534 319 534 335 541 336 541 337 541 355 534 414 538 418 542 461 535 503 538 510 541 512 541 513 541 547 553 548 576 548 583 525 608 502 596 502 598 414 602 382 596 367 595 366 595 335 601 328 599 294 601"/></Shape>
+	    <String CONTENT="البَّنِىّ صَلَّى ٱللهُ عَلَيْهِ وَسَلّمَ"
+                    HPOS="240"
+                    VPOS="528"
+                    WIDTH="308"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
