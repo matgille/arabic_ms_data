@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>sbzb_glaser_33.pdf_page_8.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT553" LABEL="Catchword" DESCRIPTION="block type Catchword"/><OtherTag ID="BT844" LABEL="Marginal Material" DESCRIPTION="block type Marginal Material"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2708"
+          HEIGHT="3996"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2708"
+                  HEIGHT="3996">
+        
+        <TextBlock HPOS="1129"
+                   VPOS="464"
+                   WIDTH="1426"
+                   HEIGHT="444"
+                   ID="eSc_textblock_2dd76bf9"
+                   TAGREFS="BT1">
+          <Shape><Polygon POINTS="1129 464 1129 908 2555 908 2555 464"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fb426961"
+                    
+                    BASELINE="1166 557 2270 522" 
+                    HPOS="1157"
+                    VPOS="452"
+                    WIDTH="1111"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1157 600 1507 580 1565 602 1752 576 1765 576 1772 576 1847 587 1896 575 1911 572 1911 569 2031 569 2055 586 2058 586 2061 586 2065 586 2268 559 2268 519 2258 452 2135 476 2068 459 2055 459 2051 459 2031 462 1948 482 1885 469 1855 466 1851 466 1848 466 1825 472 1782 486 1662 482 1582 479 1578 479 1512 489 1452 499 1442 492 1428 482 1425 482 1422 482 1418 482 1162 506 1165 556"/></Shape>
+	    <String CONTENT="للشيح العلامه اسمعيل المقرى فى ترتيب حروف القاموس •"
+                    HPOS="1157"
+                    VPOS="452"
+                    WIDTH="1111"
+                    HEIGHT="150"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e158f04"
+                    
+                    BASELINE="1166 652 2487 643" 
+                    HPOS="1162"
+                    VPOS="576"
+                    WIDTH="1322"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1165 692 2481 679 2484 642 2478 589 2178 576 2175 576 2171 576 2121 592 2115 592 2108 592 2065 576 2061 576 2058 576 1881 592 1878 592 1445 596 1407 598 1319 596 1268 601 1162 599 1165 649"/></Shape>
+	    <String CONTENT="، حمعت حروفا رتّب الشيخ سفره ، عليهن فى بيت من الشعر محكم ،"
+                    HPOS="1162"
+                    VPOS="576"
+                    WIDTH="1322"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c253f44"
+                    
+                    BASELINE="1187 752 2483 743" 
+                    HPOS="1182"
+                    VPOS="669"
+                    WIDTH="1299"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1185 785 2481 784 2481 742 2474 689 2301 669 2298 669 2294 669 2291 669 2268 689 2264 692 1911 692 1911 689 1831 669 1828 669 1825 669 1821 669 1752 689 1712 672 1708 672 1708 688 1425 692 1415 692 1412 692 1382 672 1378 672 1375 672 1375 693 1182 692 1185 749"/></Shape>
+	    <String CONTENT="، اَبَت ثحج خدذرز سشص ضط ، ظع غفِق كلم نوه لاى فاعلم ،"
+                    HPOS="1182"
+                    VPOS="669"
+                    WIDTH="1299"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2337"
+                   VPOS="1584"
+                   WIDTH="249"
+                   HEIGHT="1968"
+                   ID="eSc_textblock_92e745e4"
+                   TAGREFS="BT844">
+          <Shape><Polygon POINTS="2337 1584 2337 3552 2586 3552 2586 1584"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5ee16708"
+                    
+                    BASELINE="2457 1618 2470 3477" 
+                    HPOS="2381"
+                    VPOS="1611"
+                    WIDTH="150"
+                    HEIGHT="1865">
+            <Shape><Polygon POINTS="2454 1615 2404 1615 2404 1918 2381 1964 2381 1968 2381 1971 2401 2267 2384 2321 2384 2324 2384 2327 2401 2420 2384 2454 2384 2457 2384 2460 2401 2550 2388 2840 2388 2843 2388 2847 2388 2850 2408 2873 2391 2893 2391 2897 2391 2900 2391 2903 2414 3036 2391 3083 2391 3086 2391 3090 2391 3320 2421 3476 2468 3476 2514 3473 2531 3413 2531 3409 2531 3406 2531 3403 2531 3399 2514 3379 2511 3373 2511 3220 2511 3210 2531 3153 2531 3150 2531 3146 2531 3143 2511 3093 2511 3090 2511 3066 2524 2823 2524 2820 2524 2817 2508 2770 2524 2750 2528 2750 2528 2747 2528 2743 2528 2740 2511 2610 2528 2587 2528 2584 2528 2580 2528 2577 2504 2467 2504 2460 2504 2317 2504 2141 2524 2081 2524 2077 2524 2074 2501 1834 2521 1668 2521 1665 2521 1661 2498 1611 2454 1615"/></Shape>
+	    <String CONTENT="مد مدّ مجد الدين فى ارجائنا من بعض ابحر علمه القاموسا وهنت صحاح الجوهرى كانها محرالمه ابن حين القى موسا"
+                    HPOS="2381"
+                    VPOS="1611"
+                    WIDTH="150"
+                    HEIGHT="1865"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
