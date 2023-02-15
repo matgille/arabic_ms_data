@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000189.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2083"
+          HEIGHT="3386"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2083"
+                  HEIGHT="3386">
+        
+        <TextBlock HPOS="824"
+                   VPOS="665"
+                   WIDTH="1089"
+                   HEIGHT="2142"
+                   ID="eSc_textblock_b55bfca3"
+                   TAGREFS="BT2">
+          <Shape><Polygon POINTS="880 2807 824 2762 858 665 1766 665 1913 711 1879 2762 1337 2807"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_889754bb"
+                    
+                    BASELINE="858 764 1893 753" 
+                    HPOS="855"
+                    VPOS="657"
+                    WIDTH="1038"
+                    HEIGHT="134">
+            <Shape><Polygon POINTS="1838 657 857 663 855 702 858 764 858 784 1893 791 1893 753 1885 702 1871 696"/></Shape>
+	    <String CONTENT="الْاطناب والْاخلال والله الْهَادى الىّ سَبيل الْرشاد وَالْمسَؤل النيل الْعصّمة"
+                    HPOS="855"
+                    VPOS="657"
+                    WIDTH="1038"
+                    HEIGHT="134"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_69191273"
+                    
+                    BASELINE="874 874 1891 865" 
+                    HPOS="818"
+                    VPOS="788"
+                    WIDTH="1070"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="872 902 1888 912 1888 863 1885 788 869 795 818 855"/></Shape>
+	    <String CONTENT="وٱلسَّداد وَهُو حسْبى ونعم ٱلوَكيل اعّلم ان الْاحكام اْلشرعْىة منها مايتعلق"
+                    HPOS="818"
+                    VPOS="788"
+                    WIDTH="1070"
+                    HEIGHT="124"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_127b9b15"
+                    
+                    BASELINE="844 985 1885 993" 
+                    HPOS="838"
+                    VPOS="900"
+                    WIDTH="1044"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="841 1024 869 1041 872 1041 874 1041 877 1041 1879 1027 1882 990 1874 900 1843 928 1797 902 1791 913 838 900 843 984"/></Shape>
+	    <String CONTENT="بكيفىه العمل ويسمى فرعية وعملية ومنها ماىتعلق بكيفة الاعقاد ويسمى اصلية"
+                    HPOS="838"
+                    VPOS="900"
+                    WIDTH="1044"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_445bc6a0"
+                    
+                    BASELINE="845 1092 1888 1123" 
+                    HPOS="838"
+                    VPOS="1010"
+                    WIDTH="1047"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="874 1029 849 1010 843 1091 838 1138 1869 1174 1885 1120 1882 1029"/></Shape>
+	    <String CONTENT="واعىقادية والعْلم ٱلمتعلق بالْاوُلى يسمّى علم ٱلشرايع وٱلاحكام لما انها لا"
+                    HPOS="838"
+                    VPOS="1010"
+                    WIDTH="1047"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_789aeb2b"
+                    
+                    BASELINE="848 1230 1876 1238" 
+                    HPOS="843"
+                    VPOS="1137"
+                    WIDTH="1031"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="843 1266 880 1286 883 1286 886 1289 1871 1269 1874 1235 1874 1168 846 1137 846 1227"/></Shape>
+	    <String CONTENT="تسفاد الامن جهة الشرع ولاىسْبق الْفَهم عنْد اطلِاق الْاحكام الا الىها و بالثانيه"
+                    HPOS="843"
+                    VPOS="1137"
+                    WIDTH="1031"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea3e0363"
+                    
+                    BASELINE="846 1368 1876 1362" 
+                    HPOS="846"
+                    VPOS="1269"
+                    WIDTH="1077"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="846 1368 846 1382 1876 1402 1923 1362 1868 1269 860 1292 846 1343"/></Shape>
+	    <String CONTENT="علم الْتوحْيد وٱلصِفاتِ لِما انّ ذلِك اشهر مَباحثه واشرف مقاصده وَقد"
+                    HPOS="846"
+                    VPOS="1269"
+                    WIDTH="1077"
+                    HEIGHT="133"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5b65bc76"
+                    
+                    BASELINE="852 1489 1899 1484" 
+                    HPOS="838"
+                    VPOS="1391"
+                    WIDTH="1058"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="849 1522 1891 1531 1896 1481 1882 1391 1845 1413 1800 1393 1792 1391 1789 1391 1786 1391 838 1396 849 1487"/></Shape>
+	    <String CONTENT="كاىت الاْوايل من ٱلصحابة وٱلتابعين رضوان اْلله عليهم اجمعين • لصَفآءِ"
+                    HPOS="838"
+                    VPOS="1391"
+                    WIDTH="1058"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65fd2292"
+                    
+                    BASELINE="852 1625 1885 1605" 
+                    HPOS="831"
+                    VPOS="1520"
+                    WIDTH="1051"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="1038 1663 1835 1664 1882 1602 1876 1532 858 1520 855 1520 852 1520 852 1523 849 1523 846 1523 831 1630"/></Shape>
+	    <String CONTENT="عقيدهم ببركة صحبة النبى م وقرب الغهد بزمانه ولقله الوقايع والاخىلافات"
+                    HPOS="831"
+                    VPOS="1520"
+                    WIDTH="1051"
+                    HEIGHT="144"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c0a9208"
+                    
+                    BASELINE="855 1752 1882 1743" 
+                    HPOS="839"
+                    VPOS="1637"
+                    WIDTH="1043"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="855 1772 869 1783 872 1783 874 1783 877 1783 880 1783 1879 1774 1882 1743 1876 1660 839 1637 855 1752"/></Shape>
+	    <String CONTENT="وتمكنهم من المراجعة الى الثقات مُستغين عن تدوين العْلمىن وترتيبهما ابوابًا"
+                    HPOS="839"
+                    VPOS="1637"
+                    WIDTH="1043"
+                    HEIGHT="146"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60cbbfe6"
+                    
+                    BASELINE="846 1882 1888 1865" 
+                    HPOS="843"
+                    VPOS="1776"
+                    WIDTH="1045"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="849 1908 1885 1896 1888 1865 1881 1776 843 1785 846 1882"/></Shape>
+	    <String CONTENT="وفصولاً وتقرير مقاصد مما فروعًا واصُولاً الى ان حدثت الْفِتن بىن المسُلميَن"
+                    HPOS="843"
+                    VPOS="1776"
+                    WIDTH="1045"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78217814"
+                    
+                    BASELINE="855 1989 1868 1986" 
+                    HPOS="849"
+                    VPOS="1887"
+                    WIDTH="1073"
+                    HEIGHT="138">
+            <Shape><Polygon POINTS="855 2025 875 2019 1799 2025 1860 2009 1922 1973 1862 1904 1800 1887 1797 1887 1795 1887 849 1910 852 1986"/></Shape>
+	    <String CONTENT="وغلب البغى على امة ٱلديّن وظهر اخىلاف الارآء والميل الى ٱلبَدع وَالاشواء"
+                    HPOS="849"
+                    VPOS="1887"
+                    WIDTH="1073"
+                    HEIGHT="138"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abfd76b7"
+                    
+                    BASELINE="855 2116 1865 2121" 
+                    HPOS="847"
+                    VPOS="2019"
+                    WIDTH="1083"
+                    HEIGHT="143">
+            <Shape><Polygon POINTS="852 2138 1865 2162 1930 2051 1862 2025 847 2019 855 2116"/></Shape>
+	    <String CONTENT="وكثرت الفتاوى والواقعات وٱلرُجُوع الى ٱلعُلمآءِ فى المهمات فاشغلوا بالخط"
+                    HPOS="847"
+                    VPOS="2019"
+                    WIDTH="1083"
+                    HEIGHT="143"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfc684ce"
+                    
+                    BASELINE="826 2211 1882 2240" 
+                    HPOS="816"
+                    VPOS="2142"
+                    WIDTH="1063"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="821 2260 1876 2262 1879 2237 1876 2158 816 2142 824 2209"/></Shape>
+	    <String CONTENT="والٱسِتدلالِ والاجتهاد وَلاستنباطِ وبتمهيد القواعد والْاصُول وترتىب"
+                    HPOS="816"
+                    VPOS="2142"
+                    WIDTH="1063"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0ad9878"
+                    
+                    BASELINE="826 2340 1874 2361" 
+                    HPOS="821"
+                    VPOS="2260"
+                    WIDTH="1110"
+                    HEIGHT="139">
+            <Shape><Polygon POINTS="821 2371 1868 2399 1931 2342 1868 2260 824 2261 824 2339"/></Shape>
+	    <String CONTENT="الابواب والفصُول تكثير المساىل بادللها واراد الشبه باجوبتها وَتعين الاوضاع"
+                    HPOS="821"
+                    VPOS="2260"
+                    WIDTH="1110"
+                    HEIGHT="139"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f56fbbb"
+                    
+                    BASELINE="823 2452 1879 2477" 
+                    HPOS="818"
+                    VPOS="2374"
+                    WIDTH="1058"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="1840 2508 1865 2531 1876 2474 1873 2396 860 2374 824 2381 821 2449 818 2511"/></Shape>
+	    <String CONTENT="والْاصطلاحات وتبين الْمذاهبُ الاختلافات وسمّوا بانفيد معرفه الْاحكام العَملية"
+                    HPOS="818"
+                    VPOS="2374"
+                    WIDTH="1058"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1838bd56"
+                    
+                    BASELINE="813 2583 1882 2615" 
+                    HPOS="810"
+                    VPOS="2499"
+                    WIDTH="1069"
+                    HEIGHT="156">
+            <Shape><Polygon POINTS="810 2632 1874 2655 1879 2612 1879 2542 1851 2522 1848 2522 1845 2522 1843 2522 1840 2522 1797 2539 870 2509 889 2499 886 2499 883 2499 812 2511 812 2581"/></Shape>
+	    <String CONTENT="عن ادلتها الْىَفصْيلية بالْفقه ومعرفه احوال الادلة اجمالًا فى افادتها"
+                    HPOS="810"
+                    VPOS="2499"
+                    WIDTH="1069"
+                    HEIGHT="156"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_92f1b2b1"
+                    
+                    BASELINE="836 2677 1871 2722" 
+                    HPOS="832"
+                    VPOS="2604"
+                    WIDTH="1044"
+                    HEIGHT="170">
+            <Shape><Polygon POINTS="864 2634 841 2604 835 2674 832 2774 1865 2762 1868 2720 1876 2649"/></Shape>
+	    <String CONTENT="الاحكام باصول الفِقه ومعرفه الْعقايد عن ادلَتها بالكلام لان عنوان مباحثه"
+                    HPOS="832"
+                    VPOS="2604"
+                    WIDTH="1044"
+                    HEIGHT="170"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="214"
+                   VPOS="158"
+                   WIDTH="54"
+                   HEIGHT="64"
+                   ID="eSc_textblock_70fdf40f"
+                   >
+          <Shape><Polygon POINTS="268 191 256 222 214 211 214 158"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="372"
+                   VPOS="3318"
+                   WIDTH="494"
+                   HEIGHT="42"
+                   ID="eSc_textblock_11382ebd"
+                   >
+          <Shape><Polygon POINTS="787 3318 866 3338 372 3360 372 3318"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="688"
+                   VPOS="2697"
+                   WIDTH="43"
+                   HEIGHT="31"
+                   ID="eSc_textblock_49d1b02e"
+                   >
+          <Shape><Polygon POINTS="731 2697 731 2717 688 2728 688 2697"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
