@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="CustomZone:title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/>
+    <OtherTag LABEL="DefaultLine" ID="LT0"/><OtherTag ID="BT1" LABEL="CustomZone:title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/>
     
   </Tags>
   

@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT1003" LABEL="MarginTextZone" DESCRIPTION="block type Marginal Material"/>
+    <OtherTag LABEL="DefaultLine" ID="LT0"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT1003" LABEL="MarginTextZone" DESCRIPTION="block type Marginal Material"/>
     
   </Tags>
   

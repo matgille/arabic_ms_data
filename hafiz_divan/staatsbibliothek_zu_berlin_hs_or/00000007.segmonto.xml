@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="GraphicZone" DESCRIPTION="block type Illustration"/><OtherTag ID="BT903" LABEL="QuireMarksZone" DESCRIPTION="block type Catchword"/>
+    <OtherTag LABEL="DefaultLine" ID="LT0"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="GraphicZone" DESCRIPTION="block type Illustration"/><OtherTag ID="BT903" LABEL="QuireMarksZone" DESCRIPTION="block type Catchword"/>
     
   </Tags>
   

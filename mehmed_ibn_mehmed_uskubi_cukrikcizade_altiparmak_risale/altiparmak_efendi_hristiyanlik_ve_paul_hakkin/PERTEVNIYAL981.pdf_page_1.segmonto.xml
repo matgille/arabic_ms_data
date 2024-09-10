@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT370" LABEL="NumberingZone" DESCRIPTION="block type page number"/><OtherTag ID="BT371" LABEL="QuireMarksZone" DESCRIPTION="block type catchword"/><OtherTag ID="BT372" LABEL="CustomZone:heading" DESCRIPTION="block type head"/>
+    <OtherTag LABEL="DefaultLine" ID="LT0"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT370" LABEL="NumberingZone" DESCRIPTION="block type page number"/><OtherTag ID="BT371" LABEL="QuireMarksZone" DESCRIPTION="block type catchword"/><OtherTag ID="BT372" LABEL="CustomZone:heading" DESCRIPTION="block type head"/>
     <OtherTag ID="LT77" LABEL="HeadingLine:rubric" DESCRIPTION="line type head"/>
   </Tags>
   

@@ -8,7 +8,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1" LABEL="CustomZone:title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="GraphicZone" DESCRIPTION="block type Illustration"/><OtherTag ID="BT250" LABEL="MarginTextZone" DESCRIPTION="block type footnotes"/><OtherTag ID="BT251" LABEL="MarginTextZone" DESCRIPTION="block type marginal material"/><OtherTag ID="BT252" LABEL="NumberingZone" DESCRIPTION="block type page numbers"/><OtherTag ID="BT253" LABEL="RunningTitleZone" DESCRIPTION="block type running title"/>
+    <OtherTag LABEL="DefaultLine" ID="LT0"/><OtherTag ID="BT1" LABEL="CustomZone:title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="GraphicZone" DESCRIPTION="block type Illustration"/><OtherTag ID="BT250" LABEL="MarginTextZone" DESCRIPTION="block type footnotes"/><OtherTag ID="BT251" LABEL="MarginTextZone" DESCRIPTION="block type marginal material"/><OtherTag ID="BT252" LABEL="NumberingZone" DESCRIPTION="block type page numbers"/><OtherTag ID="BT253" LABEL="RunningTitleZone" DESCRIPTION="block type running title"/>
     
   </Tags>
   
