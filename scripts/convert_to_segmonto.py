@@ -41,10 +41,11 @@ def main():
         for line in all_lines:
             line.set("TAGREFS", "LT0")
             
+            
         
         # On supprime les blocs sans ligne
         all_widow_blocks = as_tree.xpath("//alto:TextBlock[not(alto:TextLine)]", namespaces=alto)
-        for text_block in all_widow_blocks:
+        for text_block in tqdm.tqdm(all_widow_blocks):
             text_block.getparent().remove(text_block)
 
         with open(file.replace(".xml", ".segmonto.xml"), "w") as output_xml:
