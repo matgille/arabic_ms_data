@@ -2,6 +2,7 @@ import lxml.etree as ET
 import glob
 import sys
 import json
+import tqdm 
 
 alto = {'alto': 'http://www.loc.gov/standards/alto/ns-v4#'}
 alto_ns_cr = '{http://www.loc.gov/standards/alto/ns-v4#}'
@@ -11,7 +12,7 @@ def main():
     with open("typologie.json") as input_file:
         json_mapping = json.load(input_file)
 
-    for file in glob.glob(f"*/*/*.xml"):
+    for file in tqdm.tqdm(glob.glob(f"../*/*/*.xml")):
         if "segmonto" in file:
             continue
         as_tree = ET.parse(file)
@@ -19,11 +20,15 @@ def main():
         all_labels = as_tree.xpath("//alto:Tags/alto:OtherTag/@LABEL", namespaces=alto)
         all_ids = as_tree.xpath("//alto:Tags/alto:OtherTag/@ID", namespaces=alto)
         all_labels_and_tags = list(zip(all_tags, all_labels, all_ids))
-        tags_element = as_tree.xpath("//alto:Tags", namespaces=alto)
+        try:
+            tags_element = as_tree.xpath("//alto:Tags", namespaces=alto)[0]
+        except IndexError:
+            print(file)
+            continue
         default_tag = ET.Element(alto_ns_cr + "OtherTag")
         default_tag.set("LABEL", "DefaultLine")
         default_tag.set("ID", "LT0")
-        tags_element.append(default_tag)
+        tags_element.insert(0, default_tag)
         for element, label, ident in all_labels_and_tags:
             replacement = json_mapping[ident[0]][label]
             if replacement == "None":
