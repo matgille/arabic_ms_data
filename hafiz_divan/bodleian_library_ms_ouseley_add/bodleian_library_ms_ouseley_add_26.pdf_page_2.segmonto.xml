@@ -1,0 +1,58 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>bodleian_library_ms_ouseley_add_26.pdf_page_2.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2479" HEIGHT="3504" PHYSICAL_IMG_NR="1" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2479" HEIGHT="3504">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_9181557b" BASELINE="992 1569 1571 1589" HPOS="991" VPOS="1500" WIDTH="615" HEIGHT="134" TAGREFS="LT0">
+            <Shape><Polygon POINTS="1031 1634 1245 1594 1315 1608 1327 1611 1330 1611 1333 1611 1338 1611 1390 1627 1563 1617 1569 1588 1606 1533 1493 1512 1490 1512 1487 1512 1429 1535 1327 1512 1324 1512 1321 1512 1268 1530 1230 1515 1227 1515 1224 1515 1221 1515 1219 1515 1210 1524 1189 1506 1183 1503 1183 1500 1181 1500 1178 1500 1175 1500 1172 1500 1169 1500 1163 1506 1134 1524 991 1503 991 1568"/></Shape>
+	    <String CONTENT="که سالک بىخبر نبود زراه و رسم منزلها" HPOS="991" VPOS="1500" WIDTH="615" HEIGHT="134"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_41acae33" BASELINE="992 1706 1566 1716" HPOS="988" VPOS="1643" WIDTH="575" HEIGHT="121" TAGREFS="LT0">
+            <Shape><Polygon POINTS="988 1731 1328 1752 1344 1731 1365 1743 1368 1743 1371 1743 1373 1743 1429 1764 1423 1728 1429 1728 1434 1750 1499 1743 1502 1743 1505 1743 1561 1725 1563 1714 1563 1667 991 1643 991 1705"/></Shape>
+	    <String CONTENT="مرآ در مجلس جانان جه امن عیش جون هر دم" HPOS="988" VPOS="1643" WIDTH="575" HEIGHT="121"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_498fd6d1" BASELINE="1002 1848 1581 1853" HPOS="996" VPOS="1781" WIDTH="582" HEIGHT="149" TAGREFS="LT0">
+            <Shape><Polygon POINTS="1386 1901 1391 1877 1552 1930 1549 1862 1566 1877 1578 1851 1575 1807 1332 1791 1306 1792 1286 1784 1283 1784 1280 1784 1245 1789 1204 1801 1189 1789 1186 1787 1186 1784 1183 1784 1181 1784 1119 1784 1116 1784 1113 1784 1110 1784 1072 1801 1002 1781 999 1845 996 1860"/></Shape>
+	    <String CONTENT="جرس فریاد میدارد که بربندید محملها" HPOS="996" VPOS="1781" WIDTH="582" HEIGHT="149"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_188cd096" BASELINE="971 1970 1576 1986" HPOS="970" VPOS="1900" WIDTH="605" HEIGHT="135" TAGREFS="LT0">
+            <Shape><Polygon POINTS="973 2032 1553 2035 1575 1985 1572 1912 1473 1909 1470 1909 1467 1909 1458 1915 1406 1941 1254 1941 1236 1921 1224 1909 1224 1906 1221 1906 1219 1906 1216 1906 1213 1906 1175 1924 1148 1935 1122 1924 1072 1900 1069 1900 1067 1900 1064 1900 970 1927 970 1968"/></Shape>
+	    <String CONTENT="شب تاریک و بیم موج و کردابی جنىن هایل" HPOS="970" VPOS="1900" WIDTH="605" HEIGHT="135"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6cddfa1" BASELINE="976 2108 1587 2123" HPOS="970" VPOS="2055" WIDTH="614" HEIGHT="133" TAGREFS="LT0">
+            <Shape><Polygon POINTS="970 2143 1053 2161 1140 2152 1143 2152 1145 2152 1168 2174 1464 2143 1581 2188 1584 2122 1581 2064 1511 2079 1467 2061 1464 2061 1461 2061 1458 2061 1455 2061 1452 2061 1406 2076 1318 2076 1303 2061 1300 2058 1300 2055 1297 2055 1295 2055 1292 2055 1289 2055 1271 2061 1233 2070 973 2058 973 2105"/></Shape>
+	    <String CONTENT="کجا دانند حال ما سبکباران ساحلها" HPOS="970" VPOS="2055" WIDTH="614" HEIGHT="133"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,71 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000010.tif</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/><OtherTag ID="BT4" LABEL="GraphicZone" DESCRIPTION="block type Illustration"/><OtherTag ID="BT817" LABEL="QuireMarksZone" DESCRIPTION="block type Catchword"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1182" HEIGHT="1787" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="1182" HEIGHT="1787">
+        
+        <TextBlock HPOS="359" VPOS="561" WIDTH="349" HEIGHT="651" ID="eSc_textblock_7fa3acb5" TAGREFS="BT2">
+          <Shape><Polygon POINTS="359 561 359 1212 708 1210 708 561"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_93e32aab" BASELINE="472 610 630 614" HPOS="469" VPOS="577" WIDTH="160" HEIGHT="69" TAGREFS="LT0">
+            <Shape><Polygon POINTS="471 609 469 632 576 646 578 646 627 634 629 613 627 592 552 592 548 589 532 577 530 577 529 577 527 577 471 585 471 609"/></Shape>
+	    <String CONTENT="هدَا" HPOS="469" VPOS="577" WIDTH="160" HEIGHT="69"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fda50cc" BASELINE="439 671 632 671" HPOS="438" VPOS="632" WIDTH="193" HEIGHT="67" TAGREFS="LT0">
+            <Shape><Polygon POINTS="438 670 438 686 466 686 484 698 485 698 487 698 488 699 587 699 587 698 588 698 631 685 631 670 630 643 593 646 585 641 572 632 570 632 569 632 567 632 566 632 545 640 488 632 487 632 485 632 484 632 484 634 476 640 471 646 438 640 438 670"/></Shape>
+	    <String CONTENT="كتابُ" HPOS="438" VPOS="632" WIDTH="193" HEIGHT="67"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2a8287c7" BASELINE="361 799 720 799" HPOS="360" VPOS="749" WIDTH="359" HEIGHT="84" TAGREFS="LT0">
+            <Shape><Polygon POINTS="360 798 360 833 433 830 435 830 436 830 450 822 465 829 476 833 478 833 479 833 481 833 482 833 490 827 499 820 508 826 515 832 517 832 518 832 520 832 521 832 539 824 557 817 572 823 597 833 599 833 600 833 602 833 603 833 623 820 631 816 719 816 719 798 716 749 675 772 581 772 544 753 533 749 532 749 484 749 482 749 481 749 479 749 471 756 457 765 427 756 397 749 396 749 394 749 393 749 360 757 360 798"/></Shape>
+	    <String CONTENT="بِسْمِ اللهِ الرَّحْمـٰنِ الرَّحِيمِ" HPOS="360" VPOS="749" WIDTH="359" HEIGHT="84"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e1dfba6" BASELINE="359 906 718 910" HPOS="356" VPOS="869" WIDTH="360" HEIGHT="88" TAGREFS="LT0">
+            <Shape><Polygon POINTS="356 947 456 954 457 954 459 954 460 954 472 944 482 936 497 936 511 942 523 948 524 948 526 948 527 948 550 942 552 941 554 942 569 954 569 956 570 956 572 956 603 957 605 957 606 957 608 957 629 939 631 938 652 938 654 939 663 947 663 948 664 948 666 948 667 948 715 936 716 909 713 880 648 887 637 878 631 872 631 871 630 871 629 871 560 869 558 869 557 869 555 869 555 871 550 877 541 886 473 886 435 875 420 871 418 871 417 871 415 871 406 874 384 884 359 874 357 905 356 947"/></Shape>
+	    <String CONTENT="وَصَلَّي اللهُ عَلىَ سَيِّدِنَا" HPOS="356" VPOS="869" WIDTH="360" HEIGHT="88"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f28ae2ef" BASELINE="367 1034 716 1034" HPOS="366" VPOS="988" WIDTH="349" HEIGHT="106" TAGREFS="LT0">
+            <Shape><Polygon POINTS="366 1033 366 1066 465 1066 466 1067 478 1078 478 1079 479 1079 481 1079 482 1081 532 1081 545 1091 545 1093 547 1093 548 1093 550 1094 669 1094 669 1093 670 1093 715 1073 715 1033 715 1009 658 996 657 996 585 1008 554 988 552 988 551 988 454 988 453 988 451 988 450 988 426 1009 366 1009 366 1033"/></Shape>
+	    <String CONTENT="مُحَمَّدٍ وَعَلَى آلِهِ وَ" HPOS="366" VPOS="988" WIDTH="349" HEIGHT="106"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e8af08c2" BASELINE="357 1162 712 1164" HPOS="354" VPOS="1130" WIDTH="356" HEIGHT="70" TAGREFS="LT0">
+            <Shape><Polygon POINTS="356 1161 354 1197 384 1198 386 1198 387 1198 393 1195 429 1176 496 1176 517 1188 539 1198 541 1198 542 1198 544 1198 573 1183 591 1198 593 1198 594 1198 596 1200 630 1200 630 1198 631 1198 633 1198 657 1179 661 1176 709 1176 710 1163 710 1130 651 1130 649 1130 648 1130 646 1130 645 1131 629 1142 570 1134 554 1133 552 1133 538 1136 505 1143 485 1137 478 1136 476 1136 475 1136 473 1136 469 1139 459 1143 356 1143 356 1161"/></Shape>
+	    <String CONTENT="وَصَحْبِهِ وَسَلَّمَ" HPOS="354" VPOS="1130" WIDTH="356" HEIGHT="70"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

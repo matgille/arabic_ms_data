@@ -1,0 +1,135 @@
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00000188.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2" LABEL="MainZone" DESCRIPTION="block type Main"/>
+    
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2083" HEIGHT="3387" PHYSICAL_IMG_NR="0" ID="eSc_dummypage_">
+      <PrintSpace HPOS="0" VPOS="0" WIDTH="2083" HEIGHT="3387">
+        
+        <TextBlock HPOS="146" VPOS="1117" WIDTH="1069" HEIGHT="1634" ID="eSc_textblock_aef7e5da" TAGREFS="BT2">
+          <Shape><Polygon POINTS="146 1984 158 1140 192 1117 1192 1140 1215 2718 505 2751 192 2718"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_003acc7f" BASELINE="172 1230 1189 1202" HPOS="166" VPOS="1104" WIDTH="1023" HEIGHT="137" TAGREFS="LT0">
+            <Shape><Polygon POINTS="1130 1104 239 1118 223 1131 223 1129 220 1129 217 1129 166 1129 172 1230 172 1241 1187 1233 1189 1202 1184 1131 1158 1137"/></Shape>
+	    <String CONTENT="الحمد لله ٱلمتوحِّد بجلال ذاته • وكمالِ صِفاته ٱلمتقدِس فِى نعوت الجَبروُت عن شواب" HPOS="166" VPOS="1104" WIDTH="1023" HEIGHT="137"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0eb31d47" BASELINE="163 1343 1189 1323" HPOS="161" VPOS="1233" WIDTH="1028" HEIGHT="150" TAGREFS="LT0">
+            <Shape><Polygon POINTS="161 1241 163 1343 163 1363 192 1383 195 1383 197 1383 200 1383 203 1383 251 1379 1187 1363 1189 1323 1187 1301 1178 1233"/></Shape>
+	    <String CONTENT="ٱلنقص وسّماته • وٱلصَلوة على نبيه محمد بساطح حججه • وواضح بيناته • وعَلىَ" HPOS="161" VPOS="1233" WIDTH="1028" HEIGHT="150"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71ad3ed2" BASELINE="163 1462 1192 1453" HPOS="158" VPOS="1354" WIDTH="1031" HEIGHT="150" TAGREFS="LT0">
+            <Shape><Polygon POINTS="161 1476 268 1501 271 1504 1099 1495 1102 1495 1105 1495 1107 1495 1189 1467 1189 1450 1181 1354 272 1380 243 1360 240 1360 231 1382 158 1360 161 1459"/></Shape>
+	    <String CONTENT="آله واصّحابه هداة طَريق ٱلحق وحماته وبَعدُ فان مبنى علم ٱلشَرايع وَالٱحكام" HPOS="158" VPOS="1354" WIDTH="1031" HEIGHT="150"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80e338fb" BASELINE="169 1586 1201 1586" HPOS="169" VPOS="1481" WIDTH="1032" HEIGHT="143" TAGREFS="LT0">
+            <Shape><Polygon POINTS="173 1619 1135 1624 1201 1603 1201 1586 1201 1493 262 1499 248 1484 245 1484 243 1484 169 1481 169 1586"/></Shape>
+	    <String CONTENT="اَسَاسّ قواعد عقايد ٱلاِسْلام • هُو علم ٱلتوحْيد وٱلصّفات ٱلمرسْوُم بِالكَلام" HPOS="169" VPOS="1481" WIDTH="1032" HEIGHT="143"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a65993ca" BASELINE="166 1707 1203 1697" HPOS="161" VPOS="1614" WIDTH="1040" HEIGHT="141" TAGREFS="LT0">
+            <Shape><Polygon POINTS="163 1755 234 1741 1198 1741 1201 1696 1195 1623 200 1614 197 1614 195 1614 192 1614 161 1631 163 1704"/></Shape>
+	    <String CONTENT="ٱلنجى عن غياهّب ٱلشكوك وظلمات الاْوهام • وانّ ٱلمحقر ٱلمسْمَّى بالعقايد للْاِمَام" HPOS="161" VPOS="1614" WIDTH="1040" HEIGHT="141"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_84508f68" BASELINE="161 1828 1192 1826" HPOS="151" VPOS="1747" WIDTH="1064" HEIGHT="129" TAGREFS="LT0">
+            <Shape><Polygon POINTS="158 1862 1119 1876 1122 1876 1124 1876 1189 1848 1189 1823 1215 1747 1127 1747 1124 1747 1122 1747 1102 1755 1082 1748 151 1752 158 1826"/></Shape>
+	    <String CONTENT="ٱلهمام • قدوْة عُلمآء الْاسْلام • نجم ٱلملّة وٱلديّن عُمر ٱلنَسفى اعّلى اللَه دَرَجته" HPOS="151" VPOS="1747" WIDTH="1064" HEIGHT="129"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c10bfe3f" BASELINE="152 1927 1210 1926" HPOS="149" VPOS="1862" WIDTH="1060" HEIGHT="130" TAGREFS="LT0">
+            <Shape><Polygon POINTS="149 1972 220 1992 223 1992 226 1992 1206 1978 1209 1924 1209 1882 1150 1862 1147 1876 209 1862 206 1862 203 1862 149 1882 149 1924"/></Shape>
+	    <String CONTENT="فى دارِ ٱلسَّلاَم • يشتمل من مذا ٱلفنّ على غُرر الفوايد • ودُرر ٱلفوايد • فى ضمن" HPOS="149" VPOS="1862" WIDTH="1060" HEIGHT="130"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7cf0fa47" BASELINE="180 2088 1205 2059" HPOS="175" VPOS="1989" WIDTH="1029" HEIGHT="125" TAGREFS="LT0">
+            <Shape><Polygon POINTS="178 2114 1201 2097 1204 2057 1195 1989 1130 1995 1122 1989 175 1999 178 2085"/></Shape>
+	    <String CONTENT="فصُول • مى للديّن قواعد واصول • واشآء نصوص هى لليقن جواهر وفصوص •" HPOS="175" VPOS="1989" WIDTH="1029" HEIGHT="125"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_688ea588" BASELINE="175 2176 1214 2177" HPOS="169" VPOS="2099" WIDTH="1043" HEIGHT="157" TAGREFS="LT0">
+            <Shape><Polygon POINTS="169 2215 273 2246 1064 2256 1136 2221 1136 2224 1167 2246 1170 2246 1172 2246 1175 2246 1178 2246 1181 2246 1209 2224 1212 2176 1209 2122 1105 2099 1102 2099 1099 2099 247 2113 254 2105 172 2116 172 2173"/></Shape>
+	    <String CONTENT="مع غاية من ٱلتَنقْيح وٱلهذب ونهاية من حُسن ٱلتىظيم والتْرتيب • فحاولت انّ" HPOS="169" VPOS="2099" WIDTH="1043" HEIGHT="157"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_18c294e1" BASELINE="138 2295 1212 2317" HPOS="132" VPOS="2221" WIDTH="1077" HEIGHT="141" TAGREFS="LT0">
+            <Shape><Polygon POINTS="1198 2266 1076 2258 227 2233 220 2221 217 2221 172 2232 163 2263 161 2235 135 2243 135 2294 132 2328 220 2359 223 2359 226 2359 1079 2362 1082 2362 1206 2345 1209 2314 1206 2291 1206 2311"/></Shape>
+	    <String CONTENT="اشرحه شرحًا يفصل مجّملاًته • ويبيّن مَعضلاته وينشر مطوّايته • وينظهر مكنونَاته" HPOS="132" VPOS="2221" WIDTH="1077" HEIGHT="141"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_27cad4ff" BASELINE="172 2446 1175 2458" HPOS="166" VPOS="2359" WIDTH="1084" HEIGHT="139" TAGREFS="LT0">
+            <Shape><Polygon POINTS="211 2359 209 2359 206 2359 203 2359 183 2370 169 2438 169 2444 166 2469 203 2492 206 2492 209 2492 211 2492 214 2498 1147 2475 1161 2486 1250 2437 1167 2362"/></Shape>
+	    <String CONTENT="مع توجيه للكلام فى تنقيح • وتنبيهٍ على الْمراَم فى تَوضيح • ويحقق للمسائل غيّبَ" HPOS="166" VPOS="2359" WIDTH="1084" HEIGHT="139"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efa80432" BASELINE="167 2564 1221 2558" HPOS="163" VPOS="2472" WIDTH="1061" HEIGHT="133" TAGREFS="LT0">
+            <Shape><Polygon POINTS="166 2604 1218 2605 1220 2557 1215 2509 1224 2472 163 2496 166 2562"/></Shape>
+	    <String CONTENT="تقريب و تدقيق للدلايل ٱثِر تحرير وتفسيرٍ للمقاصد بعْد تمهيدٍ وتكتر للفوايد مع" HPOS="163" VPOS="2472" WIDTH="1061" HEIGHT="133"/>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c8b9f87" BASELINE="202 2692 1198 2695" HPOS="197" VPOS="2596" WIDTH="1049" HEIGHT="145" TAGREFS="LT0">
+            <Shape><Polygon POINTS="197 2737 1194 2741 1246 2686 1192 2596 248 2610 245 2613 200 2613 200 2689"/></Shape>
+	    <String CONTENT="ثجرىد طاويًا كشح ٱلمقَاَلِ عن الاطالة والامِلال ومتجافًيا عن طرفى الٱقِتصآد •" HPOS="197" VPOS="2596" WIDTH="1049" HEIGHT="145"/>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="361" VPOS="3307" WIDTH="515" HEIGHT="54" ID="eSc_textblock_3c0011c6">
+          <Shape><Polygon POINTS="830 3307 876 3361 361 3350 474 3307"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1037" VPOS="666" WIDTH="31" HEIGHT="8" ID="eSc_textblock_d79e517a">
+          <Shape><Polygon POINTS="1068 666 1068 674 1037 674 1037 666"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1206" VPOS="3274" WIDTH="515" HEIGHT="87" ID="eSc_textblock_3684b2f4">
+          <Shape><Polygon POINTS="1387 3274 1698 3307 1721 3361 1206 3361 1206 3307"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

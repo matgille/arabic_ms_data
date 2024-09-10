@@ -1,0 +1,24 @@
+{"L": 
+{"Correction":"None",
+"head":"HeadingLine:rubric",
+"Poetry":"DefaultLine",
+"Interlinear":"InterlinearLine",
+"Head":"None"}, 
+"B": {
+"Marginal Material":"MarginTextZone",
+"footnotes":"MarginTextZone",
+"Catchword":"QuireMarksZone",
+"page numbers":"NumberingZone",
+"page number":"NumberingZone",
+"running title":"RunningTitleZone",
+"Commentary":"MarginTextZone",
+"Illustration":"GraphicZone",
+"Title":"CustomZone:title",
+"Head":"None",
+"heads":"None",
+"head":"CustomZone:heading",
+"catchword":"QuireMarksZone",
+"Main":"MainZone",
+"Title Square":"None",
+"marginal material":"MarginTextZone"}
+}
