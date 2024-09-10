@@ -231,14 +231,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2626" VPOS="3810" WIDTH="10" HEIGHT="10" ID="eSc_textblock_bb4c3177">
-          <Shape><Polygon POINTS="2626 3820 2626 3810 2636 3810 2636 3820"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

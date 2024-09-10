@@ -131,14 +131,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="180" VPOS="135" WIDTH="242" HEIGHT="265" ID="eSc_textblock_1aa53220">
-          <Shape><Polygon POINTS="422 377 202 400 180 247 270 135 422 180 422 377"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

@@ -16,18 +16,6 @@
     <Page WIDTH="2479" HEIGHT="3508" PHYSICAL_IMG_NR="2" ID="eSc_dummypage_">
       <PrintSpace HPOS="0" VPOS="0" WIDTH="2479" HEIGHT="3508">
         
-        <TextBlock HPOS="317" VPOS="545" WIDTH="1637" HEIGHT="2370" ID="eSc_textblock_c79820a0" TAGREFS="BT2">
-          <Shape><Polygon POINTS="317 545 317 2915 1954 2915 1954 545"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="304" VPOS="2920" WIDTH="174" HEIGHT="91" ID="eSc_textblock_2ef9e910" TAGREFS="BT550">
-          <Shape><Polygon POINTS="304 2959 304 3011 478 3011 456 2920"/></Shape>
-          
-        </TextBlock>
-        
-
-        
         <TextBlock ID="eSc_dummyblock_">
           
           

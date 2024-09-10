@@ -140,29 +140,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="3051" VPOS="2688" WIDTH="51" HEIGHT="51" ID="eSc_textblock_59752844">
-          <Shape><Polygon POINTS="3102 2688 3102 2739 3051 2739 3051 2688"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3033" VPOS="2039" WIDTH="69" HEIGHT="107" ID="eSc_textblock_e4d667a3">
-          <Shape><Polygon POINTS="3102 2057 3084 2146 3033 2108 3033 2039"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3033" VPOS="2187" WIDTH="69" HEIGHT="292" ID="eSc_textblock_c5d799cd">
-          <Shape><Polygon POINTS="3033 2405 3070 2187 3102 2206 3084 2479"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="3033" VPOS="2502" WIDTH="69" HEIGHT="126" ID="eSc_textblock_6ab536bf">
-          <Shape><Polygon POINTS="3033 2553 3070 2502 3102 2521 3084 2628"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

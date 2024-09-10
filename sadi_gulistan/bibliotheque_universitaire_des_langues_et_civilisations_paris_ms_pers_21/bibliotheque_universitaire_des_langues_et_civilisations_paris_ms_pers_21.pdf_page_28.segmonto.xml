@@ -124,13 +124,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="205" VPOS="159" WIDTH="131" HEIGHT="176" ID="eSc_textblock_da767697">
-          <Shape><Polygon POINTS="205 313 227 159 336 250 313 335"/></Shape>
-          
-        </TextBlock>
-        
-
-        
         <TextBlock ID="eSc_dummyblock_">
           
           

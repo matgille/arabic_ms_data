@@ -82,19 +82,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="39" VPOS="1383" WIDTH="14" HEIGHT="6" ID="eSc_textblock_96749767">
-          <Shape><Polygon POINTS="53 1383 53 1389 39 1389 39 1383"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="448" VPOS="2264" WIDTH="53" HEIGHT="22" ID="eSc_textblock_0479b1ba">
-          <Shape><Polygon POINTS="501 2264 501 2278 448 2286 456 2264"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

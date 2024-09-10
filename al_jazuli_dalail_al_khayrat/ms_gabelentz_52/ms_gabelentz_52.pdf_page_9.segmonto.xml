@@ -110,24 +110,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="152" VPOS="3168" WIDTH="20" HEIGHT="21" ID="eSc_textblock_99f85b8a">
-          <Shape><Polygon POINTS="172 3168 172 3189 152 3189 152 3168"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1017" VPOS="830" WIDTH="20" HEIGHT="8" ID="eSc_textblock_3e19c4b0">
-          <Shape><Polygon POINTS="1017 838 1017 830 1037 830 1037 838"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="2174" VPOS="3379" WIDTH="161" HEIGHT="55" ID="eSc_textblock_c797326b">
-          <Shape><Polygon POINTS="2186 3434 2174 3379 2324 3379 2335 3399"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

@@ -75,14 +75,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="176" VPOS="74" WIDTH="723" HEIGHT="865" ID="eSc_textblock_c4118541" TAGREFS="BT4">
-          <Shape><Polygon POINTS="176 74 176 939 899 939 899 74"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>

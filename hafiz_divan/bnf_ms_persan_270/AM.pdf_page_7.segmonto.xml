@@ -203,13 +203,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="302" VPOS="3084" WIDTH="126" HEIGHT="156" ID="eSc_textblock_4e8fbefc" TAGREFS="BT256">
-          <Shape><Polygon POINTS="428 3084 428 3240 302 3240 302 3084"/></Shape>
-          
-        </TextBlock>
-        
-
-        
         <TextBlock ID="eSc_dummyblock_">
           
           

@@ -171,14 +171,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="399" VPOS="199" WIDTH="2471" HEIGHT="3116" ID="eSc_textblock_a0538131" TAGREFS="BT4">
-          <Shape><Polygon POINTS="399 199 399 3315 2870 3315 2870 199"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-      </PrintSpace>
+        </PrintSpace>
     </Page>
   </Layout>
 </alto>
